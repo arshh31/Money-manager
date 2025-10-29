@@ -1,0 +1,79 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.welcome-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  border-radius: 7px;
+  width: 80vw;
+  height: 13vh;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.addTransaction-container {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  max-width: 50vw;
+  max-height: 41vh;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  box-shadow: 2px 2px #7e858e;
+  margin: 10px;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputElement {
+  border-radius: 7px;
+  font-family: 'Roboto';
+  color: #334155;
+  width: 25vw;
+  height: 4vh;
+  border: 1px solid #7e858e;
+  margin-top: 10px;
+}
+
+.labelElement {
+  margin-top: 6px;
+  font-family: 'Roboto';
+  color: #7e858e;
+}
+
+.add-btn {
+  padding: 10px 24px;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  border-width: 0px;
+  color: white;
+  font-family: 'Roboto';
+  margin-top: 10px;
+}
+
+.wholeContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-Container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  justify-content: space-between;
+  border: 1px solid #7e858e;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-around;
+}

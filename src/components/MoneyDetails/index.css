@@ -1,0 +1,48 @@
+.transactionDetails-Container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  width: 80vw;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+  border-radius: 8px;
+  width: 23vw;
+  margin: 15px;
+}
+
+.income-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+  border-radius: 8px;
+  width: 23vw;
+  margin: 15px;
+}
+
+.expense-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+  border-radius: 8px;
+  width: 23vw;
+  margin: 15px;
+}
+
+.transaction-images {
+  width: 60px;
+  height: 60px;
+}
+
+.rupees {
+  font-size: 25px;
+}

@@ -1,0 +1,15 @@
+.detailsContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dlt-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.dlt-img {
+  width: 30px;
+  height: 30px;
+}
