@@ -45,7 +45,7 @@ Resets input fields after adding a transaction
 
 ---
 
-🧩 Components Structure
+ Components Structure
 <details> <summary>Click to view</summary> <br/> <div style="text-align: center;"> <img src="https://assets.ccbp.in/frontend/content/react-js/money-manager-component-structure-breakdown.png" alt="component breakdown structure" style="max-width:100%; box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)"> </div> <br/>
 
 Components:
@@ -60,7 +60,7 @@ App.js – Root component
 
 </details>
 
-## 🚀 Set Up Instructions
+##  Set Up Instructions
 
 <details>
 <summary>Click to view</summary>
